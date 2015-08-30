@@ -1,0 +1,1 @@
+residuo = estrutura[modelo][cadeia][posicao_residuo]

@@ -1,0 +1,1 @@
+atomo = estrutura[modelo][cadeia][posicao_residuo][atomo]

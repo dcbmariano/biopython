@@ -1,0 +1,1 @@
+from nome_do_pacote import *
