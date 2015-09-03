@@ -1,0 +1,164 @@
+LOCUS       NC_009934               2133 bp    DNA     circular CON 07-JUN-2013
+DEFINITION  Acaryochloris marina MBIC11017 plasmid pREB9, complete sequence.
+ACCESSION   NC_009934
+VERSION     NC_009934.1  GI:158341621
+DBLINK      Project: 58167
+            BioProject: PRJNA58167
+KEYWORDS    .
+SOURCE      Acaryochloris marina MBIC11017
+  ORGANISM  Acaryochloris marina MBIC11017
+            Bacteria; Cyanobacteria; Oscillatoriophycideae; Chroococcales;
+            Acaryochloris.
+REFERENCE   1  (bases 1 to 2133)
+  AUTHORS   Swingley,W.D., Chen,M., Cheung,P.C., Conrad,A.L., Dejesa,L.C.,
+            Hao,J., Honchak,B.M., Karbach,L.E., Kurdoglu,A., Lahiri,S.,
+            Mastrian,S.D., Miyashita,H., Page,L., Ramakrishna,P., Satoh,S.,
+            Sattley,W.M., Shimada,Y., Taylor,H.L., Tomo,T., Tsuchiya,T.,
+            Wang,Z.T., Raymond,J., Mimuro,M., Blankenship,R.E. and
+            Touchman,J.W.
+  TITLE     Niche adaptation and genome expansion in the chlorophyll
+            d-producing cyanobacterium Acaryochloris marina
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 105 (6), 2005-2010 (2008)
+   PUBMED   18252824
+REFERENCE   2  (bases 1 to 2133)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-OCT-2007) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 2133)
+  AUTHORS   Touchman,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (25-SEP-2007) Translational Genomics Research Institute,
+            13208 E Shea Blvd, Scottsdale, AZ 85004, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. The reference sequence was derived from CP000846.
+            Source bacteria from Marine Biotechnology Institute Culture
+            Collection, Marine Biotechnology Institute, 3-75-1 Heita, Kamaishi,
+            Iwate 026-0001, Japan.
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..2133
+                     /organism="Acaryochloris marina MBIC11017"
+                     /mol_type="genomic DNA"
+                     /strain="MBIC11017"
+                     /db_xref="taxon:329726"
+                     /plasmid="pREB9"
+                     /note="type strain of Acaryochloris marina"
+     gene            complement(12..257)
+                     /locus_tag="AM1_I0001"
+                     /db_xref="GeneID:5687407"
+     CDS             complement(12..257)
+                     /locus_tag="AM1_I0001"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001522785.1"
+                     /db_xref="GI:158341622"
+                     /db_xref="GeneID:5687407"
+                     /translation="MHGCIFFTSNFSIKKLSLKQLFFGTLVKSLFTPVAETLIFNSFL
+                     KVVRIAAFSNQFYAAIRILFQSCQIQETSSSNQALVC"
+     gene            complement(279..608)
+                     /locus_tag="AM1_I0002"
+                     /db_xref="GeneID:5687408"
+     CDS             complement(279..608)
+                     /locus_tag="AM1_I0002"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001522786.1"
+                     /db_xref="GI:158341623"
+                     /db_xref="GeneID:5687408"
+                     /translation="MKKLVLLFFLSIAILAGSVTISHAQTFGPVFLVEYNTDRQGGDI
+                     RSGFPVGNVGQCMNECASSSQCRAFTFVDVNQQPPNYNNNRPLCWLKRSVPGKRRNSG
+                     MITGVRQ"
+     misc_feature    complement(282..503)
+                     /locus_tag="AM1_I0002"
+                     /note="Subfamily of PAN/APPLE-like domains; present in
+                     plasma prekallikrein/coagulation factor XI, microneme
+                     antigen proteins, and a few prokaryotic proteins.
+                     PAN/APPLE domains fulfill diverse biological functions by
+                     mediating protein-protein or...; Region:
+                     APPLE_Factor_XI_like; cd01100"
+                     /db_xref="CDD:238533"
+     misc_feature    complement(order(432..434,468..470,474..476))
+                     /locus_tag="AM1_I0002"
+                     /note="putative binding site; other site"
+                     /db_xref="CDD:238533"
+     gene            complement(1103..1675)
+                     /locus_tag="AM1_I0003"
+                     /db_xref="GeneID:5687409"
+     CDS             complement(1103..1675)
+                     /locus_tag="AM1_I0003"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001522787.1"
+                     /db_xref="GI:158341624"
+                     /db_xref="GeneID:5687409"
+                     /translation="MTALAGLKDAQLFANGVYSAWEWVKACDGIRWFTDGERRYGQEL
+                     WQLASVYLKGDECHPDYGHRKVWREGLEVVMKVKGSQGNRRVEWVKTEHPFTAISPRS
+                     EIHANHNEAHNAALRRRCSAYRRRQNLYAKKRLGLQRVLDVQRLIHNWVRPHWGLSKQ
+                     TTPAMEMGFCSRPLSTLELLTNKGFRYVPC"
+     misc_feature    complement(<1424..1567)
+                     /locus_tag="AM1_I0003"
+                     /note="The Bin/Amphiphysin/Rvs (BAR) domain, a
+                     dimerization module that binds membranes and detects
+                     membrane curvature; Region: BAR; cl12013"
+                     /db_xref="CDD:245835"
+     gene            complement(1786..2100)
+                     /locus_tag="AM1_I0004"
+                     /db_xref="GeneID:5687410"
+     CDS             complement(1786..2100)
+                     /locus_tag="AM1_I0004"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="YP_001522788.1"
+                     /db_xref="GI:158341625"
+                     /db_xref="GeneID:5687410"
+                     /translation="MECPYCQSEKILKRGFDSLQDGTLVQRYQCKDCNRRFNERTGTP
+                     MARLRTASSVVSYAIKARTEGMGVRSAGRTFGKSHTTIMRWEKRLADQAQNWSPPRTS
+                     SL"
+     misc_feature    complement(1837..>2094)
+                     /locus_tag="AM1_I0004"
+                     /note="Transposase and inactivated derivatives [DNA
+                     replication, recombination, and repair]; Region: COG3677"
+                     /db_xref="CDD:226202"
+ORIGIN      
+        1 gctagatcct gctaacagac cagtgcctga ttgctggatg aggtttcttg tatttggcaa
+       61 gattgaaata ggatgcgaat agcagcataa aattgattac taaatgctgc tattcgcact
+      121 acttttagaa agctattgaa aataagtgtt tcagcaactg gagtaaaaag tgatttaacg
+      181 agtgtaccaa agaaaagctg cttcagactg agcttcttaa ttgagaagtt agatgtaaaa
+      241 aaaatacatc catgcactac tcaaatagga attaaatatt actgtctaac tccagtgatc
+      301 attccagaat ttcttctttt acctggtaca gaccttttta gccagcaaag agggcgatta
+      361 ttattatagt tgggaggttg ctggttaaca tcaacaaatg taaaggctct acattgagaa
+      421 gaactagcac actcattcat acactgaccg acattaccca caggaaatcc tgaacggata
+      481 tctccaccct gacgatctgt attatattcc acaaggaaaa caggcccaaa agtttgtgca
+      541 tgagatatgg tcacagaacc ggcaagtatt gcaatactta gaaaaaaaag taaaactaat
+      601 tttttcatga ttgtttttct ccaaggtaga tcgtttttag cattaatatt ctgaaatgca
+      661 aatatttcca gatttatagt gttacaaaac ctatttatag ttatctagta attaaaactt
+      721 atgccaaagt tcatagtttt aaaagttcat tgttttaaat tagagttttt aagcgtaaca
+      781 ccatttattt gctgaaatta aaggcttaat tttgaagatt ggctgattta cagagcttta
+      841 agaagactga cataggctgt tttactaggt aattggtata aggtgtctaa gaacctcggt
+      901 actttgatgt cttatctttt accttttcct tgtttatgca tttatttata ttttgtaact
+      961 ttttaatagg tatgaagtgg gatgcaatgc cctataaaaa accccgaaaa caggagagtc
+     1021 acgggggatt aagaaggttg ataaattctt gggtttgctt tgaggtgcga tcgtgggttg
+     1081 gatgagtgcg ggcactggtc tactaacagg gcacatacct aaacccttta ttggtgagga
+     1141 gttctaaagt actcagtggg cgagaacaaa atcccatctc catggctggt gtggtctgct
+     1201 tactgagtcc ccaatggggt ctaacccagt tatgaatcag gcgttgtacg tctagcactc
+     1261 gctgtaaccc caaccgcttc ttagcgtaga gattctgccg ccttcgataa gcactacatc
+     1321 gtctcctcaa ggcagcattg tgagcctcat tatgattggc atggatctca gaccttggac
+     1381 tgatagcggt aaagggatgc tctgttttca cccactctac tcgccgattc ccctgagacc
+     1441 ctttaacttt catcacgact tctaaccctt ctcgccaaac cttgcgatgc ccatagtcag
+     1501 gatgacactc atcacctttg agatagacac tggcaagctg ccaaagttct tgtccataac
+     1561 gcctttcacc atcggtaaac catcgaatcc catcacaggc tttcacccac tcccaagctg
+     1621 agtaaacgcc atttgcaaaa agttgtgcat ccttgaggcc agctagtgct gtcaaccaat
+     1681 agcggctttc gcgttcaagg aagtggatgg tccagccctg ggactggctg ggggggaaga
+     1741 tttttgccta cacgagtgta tacttcatcc ccttctaccg tcacatcaga ggctgctggt
+     1801 gcgggggggt gaccagttct gtgcttggtc tgctaggcgt ttttcccaac gcataatggt
+     1861 ggtatgagat ttaccaaagg tacgacctgc tgaacggacc cccattcctt cggtgcgagc
+     1921 tttgatggca tagctcacca ctgaactagc ggtgcgtaaa cgagccattg gggtgcctgt
+     1981 gcgttcgttg aaacgacgat tgcaatcctt acactgatat cgctggacta atgtcccatc
+     2041 ttgcagacta tcaaagccac gcttaaggat cttctcactt tgacagtatg ggcattccat
+     2101 tgatctacat caggttccgt cgaaggcatt ata
+//
