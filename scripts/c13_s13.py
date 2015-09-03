@@ -87,7 +87,7 @@ for b in blast:
 	else:
 		cor = colors.firebrick
 		
-gd.cross_track_links.append(CrossLink((gA, qstart, qend),(gB, sstart, send),color=cor))
+	gd.cross_track_links.append(CrossLink((gA, qstart, qend),(gB, sstart, send),color=cor))
 
 gd.draw(format="linear", pagesize=(8*cm,29.7*cm), fragments=1)
 

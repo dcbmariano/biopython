@@ -1,7 +1,7 @@
 from Bio import SeqIO
 import pylab
 
-handle = open("exemplo.fasta")
+handle = open("exemplo_pontos.fasta")
 record_iterator = SeqIO.parse(handle, "fasta")
 rec_one = next(record_iterator)
 rec_two = next(record_iterator)
