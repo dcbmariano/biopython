@@ -1,0 +1,1 @@
+def minhaFuncao(arg1, arg2="Segundo argumento"):
