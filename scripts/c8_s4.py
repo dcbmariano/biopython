@@ -1,3 +1,3 @@
-a = “Meu Texto”
+a = "Meu Texto"
 print a.upper()
-#Irá imprimir “MEU TEXTO”
+#Irá imprimir "MEU TEXTO"
